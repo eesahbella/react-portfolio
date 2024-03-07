@@ -8,6 +8,7 @@ import MySkills from './components/Home/MySkills';
 import MyProjects from './components/Home/MyProjects';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ContactMe from './components/Home/ContactMe';
+import Footer from './components/Home/Footer';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
             <Route path='/skills' element={<MySkills />} />
             <Route path='/projects' element={<MyProjects />} />
             <Route path='/contact' element={<ContactMe />} />
+            <Route path='/footer' element={<Footer />} />
           </Routes>
         </div>
       </Router>
