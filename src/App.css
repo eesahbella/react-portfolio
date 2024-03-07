@@ -180,8 +180,9 @@ h3 {
   height: 70px;
 }
 
-.nav-bar a :hover {
-  background-color: var(--light-violet)!important;
+.nav-bar a:hover {
+  background-color: var(--light-violet);
+  text-decoration: underline;
 }
 
 
