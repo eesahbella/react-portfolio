@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Password Generator",
+        "deployedLink": "https://eesahbella.github.io/password-generator/",
+        "githubLink": "https://github.com/eesahbella/password-generator",
+        "image": "./img/passwordgenerator.png"
+    },
+    {
+        "title": "Multiple Choice Quiz",
+        "deployedLink": "https://eesahbella.github.io/multiple-choice-quiz/",
+        "githubLink": "https://github.com/eesahbella/multiple-choice-quiz",
+        "image": "./img/quiz.png"
+    },
+    {
+        "title": "Weather Dashboard",
+        "deployedLink": "https://eesahbella.github.io/weather-dashboard/",
+        "githubLink": "https://github.com/eesahbella/weather-dashboard",
+        "image": "./img/weather.png"
+    },
+    {
+        "title": "Work Day Scheduler",
+        "deployedLink": "https://eesahbella.github.io/work-day-scheduler/",
+        "githubLink": "https://github.com/eesahbella/work-day-scheduler",
+        "image": "./img/scheduler.png"
+    },
+    {
+        "title": "Role-playing Game",
+        "deployedLink": "https://eesahbella.github.io/role-playing-game/",
+        "githubLink": "https://github.com/eesahbella/role-playing-game",
+        "image": "./img/rpgame.png"
+    },
+    {
+        "title": "Eatable",
+        "deployedLink": "https://github.com/zerofloat/Eatable",
+        "githubLink": "https://zerofloat.github.io/Eatable/",
+        "image": "./img/eatable.png"
+    }
+]
