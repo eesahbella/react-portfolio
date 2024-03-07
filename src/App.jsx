@@ -7,6 +7,7 @@ import HeroSection from './components/Home/HeroSection';
 import MySkills from './components/Home/MySkills';
 import MyProjects from './components/Home/MyProjects';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import ContactMe from './components/Home/ContactMe';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
             <Route path='/hero' element={<HeroSection />} />
             <Route path='/skills' element={<MySkills />} />
             <Route path='/projects' element={<MyProjects />} />
+            <Route path='/contact' element={<ContactMe />} />
           </Routes>
         </div>
       </Router>
